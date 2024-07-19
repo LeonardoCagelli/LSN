@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/leonardocagelli/Desktop/Programming/University/Laboratory_of_Numerical_Simulation/Lecture_Lab_9",
+      "program": "/Users/leonardocagelli/Desktop/Programming/University/Laboratory_of_Numerical_Simulation/Lecture_Lab_9/build/Debug/outDebug"
+    }
+  ]
+}
